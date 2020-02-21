@@ -1,3 +1,6 @@
+body {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 header {
    width: auto;
    height: 50px;
@@ -34,6 +37,7 @@ header {
    color: rgb(224, 224, 103);
    font-size: 80px;
    font-weight: bolder;
+   
 }
 
 .white-box {
@@ -85,7 +89,7 @@ header {
 }
 
 #image {
-   max-height: 300px;
+   max-height: 400px;
    max-width: 300px;
    margin-right: 350px;
 }
@@ -94,6 +98,7 @@ header {
    max-width: 600px;
    max-height: 400px;
    font-size: 30px;
+   
 }
 
 footer {
